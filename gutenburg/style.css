@@ -31,3 +31,11 @@ a:hover {
 p {
   font-family: cursive;
 }
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
