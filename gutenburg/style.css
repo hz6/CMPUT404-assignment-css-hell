@@ -1,0 +1,33 @@
+body {
+  background:burlywood;
+}
+
+h1 {
+  color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+  color: blueviolet;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+  color: #483D8B;
+  font-family: monospace;
+}
+
+
+a {
+  text-decoration: none;
+  color: brown;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a:hover {
+  font-style: italic;
+}
+
+p {
+  font-family: cursive;
+}
