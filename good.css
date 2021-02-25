@@ -1,0 +1,64 @@
+* {
+  background: darkkhaki;
+}
+
+img {
+  padding: 2px;
+  display: block;
+  width: 25%;
+  border-radius: 50%;
+  background: rosybrown;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.personal-info {
+  float: left;
+  background: cadetblue;
+  width: 40%;
+  border: solid 2px burlywood;
+  border-radius: 2px;
+  height: 400px;
+  overflow: scroll;
+}
+
+.personal-info > * {
+  padding: 10px;
+  background: cadetblue;
+}
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2 {
+  font-family: fantasy;
+}
+
+label {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.emphasize {
+  font-weight: 100;
+}
+
+.personal-experience {
+  padding: 10px;
+  float: right;
+  background: lightgreen;
+  width: 50%;
+  height: 350px;
+  overflow: scroll;
+}
+
+.personal-experience > * {
+  background: lightgreen;
+}
+.personal-experience ul li {
+  background: lightgreen;
+}
