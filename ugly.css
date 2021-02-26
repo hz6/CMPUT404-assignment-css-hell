@@ -1,0 +1,31 @@
+body {
+  background: url("./ugly_bg.jpg") fixed center center/cover;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  border-radius: 50%;
+  padding: 10px;
+  background: #4169E1;
+}
+
+.info-box {
+  text-align: center; 
+  border: blanchedalmond solid 3px;
+  border-radius: 3px;
+  color: 	#00BFFF;
+}
+
+.skill-box {
+  text-align: center;
+  border: #00008B solid 3px;
+  border-radius: 3px;
+  color: #f4f4f4;
+}
+
+.skill-box ul li {
+  list-style: none;
+}
