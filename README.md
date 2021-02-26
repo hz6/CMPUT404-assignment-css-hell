@@ -26,5 +26,5 @@ Part I:
 Set background color to burlywood, centered the cover image for all 3 html. Changed different color and fonts for h1, h2, h3, a. Added font changing for hover effect on a.
 
 Part II:
-
-Part III:
+Good: clear background, distinct section of information
+Ugly: disturbing background image, unorganized text
